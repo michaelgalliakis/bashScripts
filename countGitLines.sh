@@ -63,12 +63,10 @@ done
 #* +- - - - - - - - - - - - - - - - - - - -+ *
 #* + + + + + + + + + + + + + + + + + + + + + *
 #* +- - - - - - - - - - - - - - - - - - - -+ *
-#* +|        Michael Galliakis 2017       |+ *
-#* +| Program m_g ; -) cnt16003@teiath.gr |+ *
-#* +|     TEI Athens - IT department.     |+ *
-#* +|    M.Sc.in Computing and Network    |+ *
-#* +|            Technologies.            |+ *
+#* +|        Michael Galliakis 2019       |+ *
+#* +|           Program m_g ; -)          |+ *
 #* +|       michaelgalliakis@yahoo.gr     |+ *
+#* +| The script was created on 24/9/2019 |+ *
 #* +| https://github.com/michaelgalliakis |+ *
 #* +- - - - - - - - - - - - - - - - - - - -+ *
 #* + + + + + + + + + + + + + + + + + + + + + *
